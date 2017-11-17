@@ -18,18 +18,12 @@
     <ClCompile Include="board.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="oop.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="pacman.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="board.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="oop.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="pacman.h">
