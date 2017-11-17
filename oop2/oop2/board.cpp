@@ -10,3 +10,13 @@ board::board()
 board::~board()
 {
 }
+
+
+Board::Board()
+{
+}
+
+
+Board::~Board()
+{
+}

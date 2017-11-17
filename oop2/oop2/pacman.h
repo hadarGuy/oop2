@@ -6,3 +6,10 @@ public:
 	~pacman();
 };
 
+class Pacman
+{
+public:
+	Pacman();
+	~Pacman();
+};
+

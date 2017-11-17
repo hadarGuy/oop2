@@ -15,18 +15,24 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="board.cpp">
+    <ClCompile Include="Elf.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="pacman.cpp">
+    <ClCompile Include="Pacman.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Board.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="board.h">
+    <ClInclude Include="Elf.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="pacman.h">
+    <ClInclude Include="Pacman.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Board.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

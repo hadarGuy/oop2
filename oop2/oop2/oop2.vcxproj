@@ -135,12 +135,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="board.cpp" />
-    <ClCompile Include="pacman.cpp" />
+    <ClCompile Include="Board.cpp" />
+    <ClCompile Include="Elf.cpp" />
+    <ClCompile Include="Pacman.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="board.h" />
-    <ClInclude Include="pacman.h" />
+    <ClInclude Include="Board.h" />
+    <ClInclude Include="Elf.h" />
+    <ClInclude Include="Pacman.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

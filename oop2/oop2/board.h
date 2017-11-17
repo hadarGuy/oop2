@@ -14,3 +14,10 @@ private:
 
 };
 
+class Board
+{
+public:
+	Board();
+	~Board();
+};
+
