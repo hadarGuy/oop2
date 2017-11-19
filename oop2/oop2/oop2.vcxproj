@@ -135,13 +135,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AdminControl.cpp" />
     <ClCompile Include="Board.cpp" />
-    <ClCompile Include="Elf.cpp" />
     <ClCompile Include="Pacman.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="AdminControl.h" />
     <ClInclude Include="Board.h" />
-    <ClInclude Include="Elf.h" />
     <ClInclude Include="Pacman.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
